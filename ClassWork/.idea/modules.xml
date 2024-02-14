@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassTask/ClassTask.iml" filepath="$PROJECT_DIR$/ClassTask/ClassTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ClassWork.iml" filepath="$PROJECT_DIR$/.idea/ClassWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lnkd/Lnkd.iml" filepath="$PROJECT_DIR$/Lnkd/Lnkd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixWork/MatrixWork.iml" filepath="$PROJECT_DIR$/MatrixWork/MatrixWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praktika/Praktika.iml" filepath="$PROJECT_DIR$/Praktika/Praktika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/University/University.iml" filepath="$PROJECT_DIR$/University/University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab19/enum.iml" filepath="$PROJECT_DIR$/lab19/enum.iml" />
+    </modules>
+  </component>
+</project>
